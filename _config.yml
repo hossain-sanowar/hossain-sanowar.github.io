@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Hossain!
 #
 # This config file is meant for settings that affect your whole blog.
 #
@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
+title: Defect detection
 description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+github_username: hossain-sanowar
 
 # Email and twitter are optional:
 email:
